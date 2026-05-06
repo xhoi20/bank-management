@@ -1,0 +1,31 @@
+# Banking System
+
+REST API for banking operations built with Spring Boot. Includes secure authentication, role-based authorization, and core banking functionalities.
+
+## Features
+
+- Account management (create, view, update, delete)
+- Transaction processing (deposits, withdrawals, transfers)
+- Transaction history tracking
+- RESTful API design
+
+## Tech Stack
+
+- **Backend:** Java, Spring Boot, Spring Security
+- **Database:** SQL Server
+
+- **Build Tool:** Maven
+- **API Documentation:** Swagger
+- **Testing:** Postman
+
+## Getting Started
+
+### Prerequisites
+- Java 17 or higher
+- Maven 3.6+
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/xhoi20/bank-management.git
